@@ -1,3 +1,3 @@
-module git.dp.ibbtv.cn/dp-backend/go-common
+module https://github.com/whj1990/go-common
 
 go 1.18
