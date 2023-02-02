@@ -19,4 +19,5 @@ const (
 	OpsRouterGroup       = "/ops"
 	GraphRouterGroup     = "/graph"
 	AbtestRouterGroup    = "/abtest"
+	MineRouterGroup      = "/mine"
 )
